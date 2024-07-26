@@ -1,0 +1,42 @@
+# 빌드 디렉토리
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio 설정 파일
+*.suo
+*.user
+*.ncb
+*.sdf
+*.opensdf
+*.vssscc
+*.vspscc
+
+# Visual Studio temporary files
+*.tmp
+*.bak
+*.swp
+
+# 기타 임시 파일
+*.log
+*.pdb
+*.ilk
+*.obj
+*.exe
+*.dll
+
+# CMake build artifacts
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# macOS Finder directory attributes
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
+
+# Visual Studio Code settings
+.vscode/
